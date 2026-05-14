@@ -1,101 +1,111 @@
-Rohan Patil
+<div align="center">Rohan Patil
 
 Co-Founder at Connect Freelance
-Building AI-powered freelance infrastructure, verification systems, and modern web applications.
 
----
+Building AI-Powered Freelance Infrastructure & Modern SaaS Systems
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=22&duration=3000&pause=1000&color=0E152A&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Startup+Builder;MERN+Stack+Developer;Building+Connect+Freelance;AI+%2B+Verification+%2B+Payments" /><br/><a href="https://connectfreelance.in">
+  <img src="https://img.shields.io/badge/Website-ConnectFreelance-0E152A?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a><a href="https://github.com/therohanpatil15">
+  <img src="https://img.shields.io/badge/GitHub-therohanpatil15-111827?style=for-the-badge&logo=github&logoColor=white"/>
+</a><a href="https://x.com/therohanpatil15">
+  <img src="https://img.shields.io/badge/X/Twitter-therohanpatil15-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a><a href="https://linkedin.com">
+  <img src="https://img.shields.io/badge/LinkedIn-Rohan%20Patil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a></div>---
 
 About Me
 
-I am an IT student and full-stack developer focused on building scalable web products, AI-powered systems, and modern SaaS platforms.
+Name: Rohan Patil
+Role: Co-Founder @ Connect Freelance
+Focus: AI Systems, Verification Infrastructure & SaaS Platforms
+Tech Stack: MERN + Supabase + Stripe + APIs
+Location: India
 
-Currently building Connect Freelance — a structured freelance marketplace focused on:
+I’m focused on building modern internet infrastructure for freelance hiring through AI workflows, secure payment systems, identity verification, messaging infrastructure, and scalable marketplace architecture.
 
-- Verified hiring
-- Secure payments
-- Identity verification systems
-- AI-powered workflows
-- Messaging and meeting infrastructure
-- Better client-freelancer collaboration
-
-I enjoy creating modern UI/UX experiences, scalable backend systems, and products that solve real operational problems.
+Currently building Connect Freelance — a trust-focused freelance platform designed to reduce hiring chaos and improve collaboration between businesses and freelancers.
 
 ---
 
 Tech Stack
 
-Frontend
+<div align="center">Frontend
 
-- React.js
-- Tailwind CSS
-- Next.js
-- Framer Motion
-- TypeScript
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,js,ts,html,css" />Backend
 
-Backend
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,supabase,firebase" />Tools & Services
 
-- Node.js
-- Express.js
-- MongoDB
-- Supabase
-- REST APIs
-
-Tools & Services
-
-- GitHub
-- Stripe
-- Persona
-- OCR APIs
-- Cloudinary
-- Firebase
-- Vercel
-
----
-
-Current Focus
-
-- AI Integrations
-- Identity Verification Systems
-- SaaS Product Development
-- Marketplace Infrastructure
-- Full-Stack Web Development
-- Startup Building
-
----
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel,postman" /></div>---
 
 Featured Projects
 
-Connect Freelance
+<table>
+<tr>
+<td width="50%">Connect Freelance
 
-A modern freelance platform focused on verified hiring, secure collaboration, and AI-powered workflows.
+Modern freelance infrastructure platform focused on:
 
-DevExplorer
+- Verified hiring
+- AI workflows
+- Secure payments
+- Messaging & meetings
+- OCR identity verification
 
-GitHub profile explorer application with frontend-backend API integration.
+</td><td width="50%">DevExplorer
 
-CineVault
+GitHub profile explorer application with:
 
-Movie streaming UI project using OMDb API integration.
+- API integration
+- Dynamic rendering
+- Frontend/backend workflows
+- Real-time data fetching
 
-MR Shop
+</td>
+</tr><tr>
+<td width="50%">CineVault
 
-Modern MERN stack e-commerce platform.
+Movie streaming frontend application using:
 
-Louis Vuitton Clone
+- OMDb API
+- Responsive OTT UI
+- Dynamic movie rendering
+- Modern frontend systems
 
-Luxury fashion-inspired frontend clone using React.js and Tailwind CSS.
+</td><td width="50%">MR Shop
 
----
+Modern MERN stack e-commerce platform with:
+
+- Product systems
+- Responsive layouts
+- Backend integration
+- Scalable architecture
+
+</td>
+</tr>
+</table>---
+
+GitHub Analytics
+
+<div align="center"><img height="170" src="https://github-readme-stats.vercel.app/api?username=therohanpatil15&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" /><img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=therohanpatil15&theme=tokyonight&hide_border=true&background=0d1117" /></div>---
+
+Current Focus
+
+<div align="center">Building| Learning| Exploring
+Connect Freelance| Scalable SaaS Systems| AI Infrastructure
+Verification Systems| Backend Architecture| Startup Growth
+Marketplace UI/UX| System Design| Product Engineering
+
+</div>---
 
 Connect With Me
 
-- LinkedIn: https://linkedin.com/in/therohanpatil15
-- GitHub: https://github.com/therohanpatil15
-- X/Twitter: https://x.com/therohanpatil15
-- Website: https://connectfreelance.in
+<div align="center"><a href="https://connectfreelance.in">Website</a> •
+<a href="https://github.com/therohanpatil15">GitHub</a> •
+<a href="https://x.com/therohanpatil15">X/Twitter</a>
 
----
+</div>---
 
-Vision
+<div align="center">Building the future of verified freelance hiring.
 
-Building internet products that improve trust, hiring quality, and operational efficiency in remote work ecosystems.
+</div>
