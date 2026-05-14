@@ -1,19 +1,34 @@
-<div align="center">Rohan Patil
+<div align="center">
 
-Co-Founder at Connect Freelance
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F172A,100:8B5CF6&text=Rohan%20Patil&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Co-Founder%20•%20Full-Stack%20Developer%20•%20AI%20Builder&descAlignY=60"/>
 
-Building AI-Powered Freelance Infrastructure & Modern SaaS Systems
+<br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=22&duration=3000&pause=1000&color=0E152A&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Startup+Builder;MERN+Stack+Developer;Building+Connect+Freelance;AI+%2B+Verification+%2B+Payments" /><br/><a href="https://connectfreelance.in">
-  <img src="https://img.shields.io/badge/Website-ConnectFreelance-0E152A?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a><a href="https://github.com/therohanpatil15">
-  <img src="https://img.shields.io/badge/GitHub-therohanpatil15-111827?style=for-the-badge&logo=github&logoColor=white"/>
-</a><a href="https://x.com/therohanpatil15">
-  <img src="https://img.shields.io/badge/X/Twitter-therohanpatil15-000000?style=for-the-badge&logo=x&logoColor=white"/>
-</a><a href="https://linkedin.com">
-  <img src="https://img.shields.io/badge/LinkedIn-Rohan%20Patil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a></div>---
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=Building+Connect+Freelance;AI+Infrastructure+Engineer;MERN+Stack+Developer;Verification+%2B+Payments+Systems;Modern+SaaS+Builder" />
 
+<br/><br/>
+
+<a href="https://connectfreelance.in">
+<img src="https://img.shields.io/badge/Website-111827?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+<a href="https://github.com/therohanpatil15">
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://x.com/therohanpatil15">
+<img src="https://img.shields.io/badge/X/Twitter-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/therohanpatil15">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=therohanpatil15&label=Profile+Views&color=8B5CF6&style=for-the-badge"/>
+
+</div>
 About Me
 
 Name: Rohan Patil
@@ -26,7 +41,7 @@ I’m focused on building modern internet infrastructure for freelance hiring th
 
 Currently building Connect Freelance — a trust-focused freelance platform designed to reduce hiring chaos and improve collaboration between businesses and freelancers.
 
----
+
 
 Tech Stack
 
@@ -83,7 +98,7 @@ Modern MERN stack e-commerce platform with:
 
 </td>
 </tr>
-</table>---
+</table>
 
 GitHub Analytics
 
@@ -96,7 +111,7 @@ Connect Freelance| Scalable SaaS Systems| AI Infrastructure
 Verification Systems| Backend Architecture| Startup Growth
 Marketplace UI/UX| System Design| Product Engineering
 
-</div>---
+</div>
 
 Connect With Me
 
