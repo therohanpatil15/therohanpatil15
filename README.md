@@ -39,7 +39,7 @@ Location: India
 
 I’m focused on building modern internet infrastructure for freelance hiring through AI workflows, secure payment systems, identity verification, messaging infrastructure, and scalable marketplace architecture.
 
-Currently building Connect Freelance — a trust-focused freelance platform designed to reduce hiring chaos and improve collaboration between businesses and freelancers.
+Currently building Connect Freelance a trust-focused freelance platform designed to reduce hiring chaos and improve collaboration between businesses and freelancers.
 
 
 
